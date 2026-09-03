@@ -1,24 +1,61 @@
-<h1 align="center">Hi 👋, I'm Tasfia Anam</h1>
-<h3 align="center">CSE student at Independent University, Bangladesh | Aspiring Full Stack Web Developer | Passionate about Web Development | Interested in AI & Computer Vision</h3>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Hi 👋, I'm Tasfia Anam</h1>
+    </summary>
 
-- Hi 👋, I'm [tasfiaanam27](https://github.com/tasfiaanam27)
+    <!--- typing animation --->
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+at+IUB;Aspiring+Full+Stack+Web+Developer;Web+Development+Enthusiast;Exploring+AI+%26+Computer+Vision" alt="Typing SVG" />
+    </a>
+  </ul>
+</div>
 
-- 🧠 I have experience with ****Python, C++, Machine Learning and Computer Vision** through academic projects.**
+<br/>
 
-- 🎓 I’m a **Computer Science & Engineering student at Independent University, Bangladesh (IUB)**
+<!--- about --->
+- 👋 Hi, I’m **[@tasfiaanam27](https://github.com/tasfiaanam27)**
+- 🎓 I’m a **Computer Science & Engineering student at Independent University, Bangladesh (IUB)**.
+- 💻 I’m currently learning **HTML, CSS, JavaScript, TypeScript and React** as part of my **Full Stack Web Development** journey.
+- 🧠 I have experience with **Python, C++, Machine Learning and Computer Vision** through academic and personal projects.
+- 🔬 I have worked on projects involving **Deep Learning, Image Classification and Computer Vision**.
+- 🛠️ I’m currently focused on strengthening my **frontend development skills** and progressing toward **Full Stack Engineering**.
+- 💬 Ask me about **Python, C++, Machine Learning, Computer Vision and Web Development**.
+- 🚀 I enjoy **building projects, solving problems and continuously learning new technologies**.
+- 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/tasfia-anam27/)** or reach out via **[Email](tasfia.anam2002@gmail.com)**
 
-- 💻 I’m currently learning ****HTML, CSS, JavaScript, TypeScript and React** as I begin my **Full Stack Web Development** journey.**
+<br/>
 
-- 📫 Feel free to [**connect with me on LinkedIn or reach out via email**.](**connect with me on LinkedIn or reach out via email**.)
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-- 🛠️ I’m currently focused on ****web development** and progressing toward **full-stack engineering**.**
+<div>
+  <p align="left">
+    <a href="https://linkedin.com/in/tasfia-anam27" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
-- 🚀 I enjoy ****building projects, solving problems and continuously learning****
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tasfia-anam27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasfia-anam27" height="30" width="40" /></a>
-</p>
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,cpp)](https://github.com/tasfiaanam27)
+
+### Web Development:
+[![Web Development](https://skillicons.dev/icons?i=html,css,javascript,typescript,react)](https://github.com/tasfiaanam27)
+
+### AI / Machine Learning:
+[![AI / Machine Learning](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv)](https://github.com/tasfiaanam27)
+
+### Data & Database:
+[![Data & Database](https://skillicons.dev/icons?i=mysql)](https://github.com/tasfiaanam27)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,anaconda)](https://github.com/tasfiaanam27)
+
+<br/>
