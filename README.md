@@ -1,3 +1,6 @@
+<img src="./Banner.png" alt="Tasfia Anam GitHub Banner" width="100%">
+
+<br/>
 <!--- title --->
 <div id="user-content-toc">
 <ul align="center">
