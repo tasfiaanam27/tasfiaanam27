@@ -25,11 +25,7 @@
 
 - 🧠 I have experience with **Python, C++, Machine Learning and Computer Vision** through academic and personal projects.
 
-- 🔬 I have worked on projects involving **Deep Learning, Image Classification and Computer Vision**.
-
-- 🛠️ I’m currently focused on strengthening my **frontend development skills** and progressing toward **Full Stack Engineering**.
-
-- 💬 Ask me about **Python, C++, Machine Learning, Computer Vision and Web Development**.
+- 🛠️ I’m currently focused on strengthening my **web development skills** and progressing toward **Full Stack Engineering**.
 
 - 🚀 I enjoy **building projects, solving problems and continuously learning new technologies**.
 
