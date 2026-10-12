@@ -7,7 +7,7 @@
 <summary><h1 style="display: inline-block">Hi 👋, I'm Tasfia Anam</h1></summary>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+at+IUB;Aspiring+Full+Stack+Web+Developer;Web+Development+Enthusiast;Exploring+AI+%26+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+at+IUB;Full+Stack+Web+Developer;Web+Development+Enthusiast;Exploring+AI+%26+Computer+Vision" alt="Typing SVG" />
 </a>
 
 </ul>
